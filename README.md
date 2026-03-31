@@ -1,4 +1,5 @@
 # 42 School C++ Modules (CPP 00 - CPP 04)
+![C++](https://img.shields.io/badge/language-C%2B%2B-blue.svg) ![42 School](https://img.shields.io/badge/42%20School-project-purple.svg)
 
 This repository showcases my journey through the initial C++ modules at 42 School, marking a significant transition from procedural C programming to Object-Oriented Programming (OOP) paradigms. These projects are designed to build a strong foundation in C++ fundamentals, memory management, and core OOP concepts.
 
