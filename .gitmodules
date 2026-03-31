@@ -1,0 +1,15 @@
+[submodule "cpp_module00"]
+	path = cpp_module00
+	url = git@github.com:BelGarrido/cpp_module00.git
+[submodule "cpp_module01"]
+	path = cpp_module01
+	url = git@github.com:BelGarrido/cpp_module01.git
+[submodule "cpp_module02"]
+	path = cpp_module02
+	url = git@github.com:BelGarrido/cpp_module02.git
+[submodule "cpp_module03"]
+	path = cpp_module03
+	url = git@github.com:BelGarrido/cpp_module03.git
+[submodule "cpp_module04"]
+	path = cpp_module04
+	url = git@github.com:BelGarrido/cpp_module04.git
