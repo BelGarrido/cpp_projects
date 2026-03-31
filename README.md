@@ -75,10 +75,21 @@ Each module typically contains its own set of source files and a `Makefile`. To 
 
 1.  Navigate to the respective module directory (e.g., `cd cpp00/ex01`).
 2.  Run `make` to compile the project.
+```
+make 
+```
 3.  Execute the compiled program (e.g., `./a.out` or `./program_name`).
+```
+zombie.out
+```
 4.  Run `make fclean` to remove all compiled files and objects.
+```
+make fclean
+```
+
 5.  Run `make re` to recompile the project from scratch.
+```
+make re
+```
 
----
 
-This README serves as a testament to the rigorous learning experience at 42 School and my commitment to mastering C++ development.
